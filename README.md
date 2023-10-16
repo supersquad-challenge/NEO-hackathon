@@ -23,7 +23,7 @@ SuperSquad is a Web3-based challenge platform that allows users to participate i
 - **Google Login**: Sign in easily using your Google account.
 - **Neo Wallet Integration**: Seamlessly connect your Neo N3 wallet for Neo to participate in challenges.
 - **Challenge Information**: View detailed information about each challenge.
-- **USDT Deposit**: After confirming the challenge details, deposit USDT to join.
+- **USDC Deposit**: After confirming the challenge details, deposit USDC to join.
 - **Photo Verification**: Upload a photo for verification.
 - **USDC Payback**: Receive USDC back upon successful completion of challenges.
 
