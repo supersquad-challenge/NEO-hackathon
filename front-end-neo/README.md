@@ -24,7 +24,7 @@ SuperSquad is a Web3-based challenge platform that allows users to participate i
 - **Challenge Information**: View detailed information about each challenge.
 - **USDT Deposit**: After confirming the challenge details, deposit USDT to join.
 - **Photo Verification**: Upload a photo for verification.
-- **USDT Payback**: Receive USDT back upon successful completion of challenges.
+- **USDC Payback**: Receive USDC back upon successful completion of challenges.
 
 ## Prerequisites
 
@@ -47,6 +47,6 @@ The project is deployed on Vercel.
 
 1. **Google Login**: Start by logging in using your Google account.
 2. **Select Challenge and Connect Neo N3 Wallet**: Choose a challenge you're interested in and connect your Neo N3 wallet.
-3. **Deposit USDT**: Deposit up to 200 USDT to participate in the challenge.
+3. **Deposit USDC**: Deposit up to 200 USDC to participate in the challenge.
 4. **Upload Photo for Verification**: Upload a photo for verification purposes.
 5. **Complete Challenge and Earn Rewards**: Complete the challenge and earn additional rewards based on yield boosting.
